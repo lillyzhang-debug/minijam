@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"movement_scr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"movement_scr",
+  "parent":{
+    "name":"minijam",
+    "path":"minijam.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
