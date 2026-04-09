@@ -15,5 +15,4 @@ function movement_scr(_speed) {
     if (keyboard_check(ord("D"))) {
         x += _speed; // Right is plus
     }
-    
 }

@@ -3,7 +3,7 @@ hp = 20;
 atk = 1;
 spd = 1;
 
-if_moving = 0;
+sprite_index = guystill_spr;
 
-x = 0;
-y = 0;
+x = 90;
+y = 60;
