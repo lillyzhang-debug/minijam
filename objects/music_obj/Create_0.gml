@@ -1,0 +1,1 @@
+audio_play_sound(home_mus, 10, true)
