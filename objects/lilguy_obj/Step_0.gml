@@ -9,3 +9,6 @@ if (x != xprevious || y != yprevious) {
     // If the coordinates are exactly the same, we are standing still
     sprite_index = guystill_spr;
 }
+
+x = clamp(x, 8, 172);
+y = clamp(y, 8, 112);

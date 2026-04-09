@@ -7,3 +7,4 @@ sprite_index = guystill_spr;
 
 x = 90;
 y = 60;
+
