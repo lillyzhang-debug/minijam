@@ -19,7 +19,9 @@
   },
   "name":"minijam",
   "resources":[
+    {"id":{"name":"lilguy_obj","path":"objects/lilguy_obj/lilguy_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"guy_mj","path":"sprites/guy_mj/guy_mj.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
