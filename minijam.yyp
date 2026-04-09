@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"enemy objects","folderPath":"folders/enemy objects.yy","name":"enemy objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"enemy sprites","folderPath":"folders/enemy sprites.yy","name":"enemy sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"scripts","folderPath":"folders/scripts.yy","name":"scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"music","folderPath":"folders/music.yy","name":"music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player objects","folderPath":"folders/player objects.yy","name":"player objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player sprites","folderPath":"folders/player sprites.yy","name":"player sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -29,9 +30,11 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"blueenemy_obj","path":"objects/blueenemy_obj/blueenemy_obj.yy",},},
+    {"id":{"name":"enemy_obj","path":"objects/enemy_obj/enemy_obj.yy",},},
     {"id":{"name":"lilguy_obj","path":"objects/lilguy_obj/lilguy_obj.yy",},},
     {"id":{"name":"music_obj","path":"objects/music_obj/music_obj.yy",},},
     {"id":{"name":"redenemy_obj","path":"objects/redenemy_obj/redenemy_obj.yy",},},
+    {"id":{"name":"slash_obj","path":"objects/slash_obj/slash_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"attack_scr","path":"scripts/attack_scr/attack_scr.yy",},},
     {"id":{"name":"enemy_follow_scr","path":"scripts/enemy_follow_scr/enemy_follow_scr.yy",},},

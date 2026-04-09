@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"attack_scr",
   "parent":{
-    "name":"minijam",
-    "path":"minijam.yyp",
+    "name":"scripts",
+    "path":"folders/scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,4 +1,7 @@
-movement_scr(spd);
+if (isattacking == false) {
+	movement_scr(spd);
+}
+attack_scr();
 
 if (x != xprevious || y != yprevious) {
     // If the coordinates don't match, we are moving
@@ -7,6 +10,12 @@ if (x != xprevious || y != yprevious) {
 } else {
     // If the coordinates are exactly the same, we are standing still
     sprite_index = guystill_spr;
+} 
+
+if(instance_exists(slash_obj)){
+	isattacking = true;
+} else {
+	isattacking = false;
 }
 
 x = clamp(x, 8, 172);

@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"blueenemy_obj",
+  "%Name":"enemy_obj",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"blueenemy_obj",
+  "name":"enemy_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"enemy objects",
     "path":"folders/enemy objects.yy",
   },
-  "parentObjectId":{
-    "name":"enemy_obj",
-    "path":"objects/enemy_obj/enemy_obj.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"blueenemy_spr",
-    "path":"sprites/blueenemy_spr/blueenemy_spr.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
