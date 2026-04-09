@@ -1,4 +1,9 @@
-var hp = 20;
+hp = 20;
 
-var atk = 1;
+atk = 1;
+spd = 1;
 
+if_moving = 0;
+
+x = 0;
+y = 0;

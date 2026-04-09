@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"guy_spr",
-    "path":"sprites/guy_spr/guy_spr.yy",
+    "name":"guystill_spr",
+    "path":"sprites/guystill_spr/guystill_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
