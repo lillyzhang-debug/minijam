@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"redenemy_spr",
+    "path":"sprites/redenemy_spr/redenemy_spr.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
