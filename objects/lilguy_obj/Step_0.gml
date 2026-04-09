@@ -1,5 +1,4 @@
 movement_scr(spd);
-hp = hp - 0.5;
 
 if (x != xprevious || y != yprevious) {
     // If the coordinates don't match, we are moving

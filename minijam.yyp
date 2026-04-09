@@ -10,8 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"enemy sprites","folderPath":"folders/enemy sprites.yy","name":"enemy sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"enemy objects","folderPath":"folders/enemy objects.yy","name":"enemy objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"enemy sprites","folderPath":"folders/enemy sprites.yy","name":"enemy sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"music","folderPath":"folders/music.yy","name":"music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player objects","folderPath":"folders/player objects.yy","name":"player objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player sprites","folderPath":"folders/player sprites.yy","name":"player sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,6 +34,7 @@
     {"id":{"name":"redenemy_obj","path":"objects/redenemy_obj/redenemy_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"attack_scr","path":"scripts/attack_scr/attack_scr.yy",},},
+    {"id":{"name":"enemy_follow_scr","path":"scripts/enemy_follow_scr/enemy_follow_scr.yy",},},
     {"id":{"name":"movement_scr","path":"scripts/movement_scr/movement_scr.yy",},},
     {"id":{"name":"home_mus","path":"sounds/home_mus/home_mus.yy",},},
     {"id":{"name":"blueenemy_spr","path":"sprites/blueenemy_spr/blueenemy_spr.yy",},},

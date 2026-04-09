@@ -1,0 +1,1 @@
+enemy_follow_scr();

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enemy_follow_scr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enemy_follow_scr",
+  "parent":{
+    "name":"minijam",
+    "path":"minijam.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
